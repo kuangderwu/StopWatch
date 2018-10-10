@@ -6,6 +6,12 @@
 //  Copyright © 2018 Kuang-Der Wu. All rights reserved.
 //
 
+/*
+ 1.Level: Entry Level
+ 2. Pattern : ViewController + View
+ 3. Key: ViewExt -> fadeTo , TimerLabel -> How to construct the String
+ */
+
 import UIKit
 
 class StopWatchVC: UIViewController {
